@@ -1,0 +1,1 @@
+Encrypts images using standard cryptograpy algorithms!
